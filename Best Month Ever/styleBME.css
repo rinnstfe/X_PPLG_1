@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    background-color: #ffd1ed;
+    color: #0d0404;
+    line-height: 1.6;
+}
+
+/* INTRO */
+.intro {
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.intro-greet {
+    font-size: 14px;
+    opacity: 0.7;
+    margin-bottom: 10px;
+}
+
+.intro-desc {
+    font-size: 20px;
+}
+
+.highlight {
+    color: #700a27;
+}
+
+.highlight.bold {
+    font-weight: bold;
+}
+
+/* TIMELINE */
+.timeline {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* EVENT CARD */
+.event {
+    margin-bottom: 80px;
+}
+
+.event img {
+    width: 100%;
+    border-radius: 12px;
+    margin-bottom: 15px;
+}
+
+.date {
+    font-size: 13px;
+    opacity: 0.6;
+    margin-bottom: 5px;
+}
+
+.event h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.desc {
+    font-size: 16px;
+    opacity: 0.9;
+}

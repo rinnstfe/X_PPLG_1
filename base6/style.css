@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+tr .no{
+    background-color: aquamarine;
+}
+tr{
+    background-color: #ebfff7;
+    border-color: aqua;
+}
+table{
+    border-collapse: collapse;
+}
